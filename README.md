@@ -1,5 +1,8 @@
 # Paternal Bias
 
-From this page you can download the code to replicate simulations presented in "Paternal Bias: the Impact of Not Accounting for Paternal Factors in Reproductive Epidemiological Studies." 
+Simulation and R code to reproduce the analyses in the paper "Paternal Bias: the Impact of Not Accounting for Paternal Factors in Reproductive Epidemiological Studies" are available in this repository. 
 
-The R file contains all code, while the pdf file presents code and results. 
+Quick description of the files contained in this repository:
+* `paternalfactor.pdf`: simulation setting, code, and results
+* `paternalfactor.r `: R code
+
